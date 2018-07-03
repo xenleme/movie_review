@@ -1,1 +1,1 @@
-# Movie review application written using Ruby on Rails
+# Movie review application 🎬 written using Ruby on Rails

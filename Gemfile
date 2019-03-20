@@ -14,9 +14,9 @@ gem 'coffee-rails', '~> 4.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
-gem "devise", '>= 4.6.0'
+gem 'devise', '>= 4.6.0'
 gem 'paperclip', '~> 6.0'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '>= 3.4.1'
 gem 'searchkick', '~> 3.0', '>= 3.0.2'
 
 group :development, :test do
